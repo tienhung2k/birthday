@@ -1279,9 +1279,10 @@ audio {
 	display: none;
 }
 .message p {
-	font-family: 'Signika', sans-serif;
-	font-size: 30px;
-	text-transform: uppercase;
+	font-family: "Dancing Script", serif;
+	font-optical-sizing: auto;
+	font-size: 4rem;
+	text-transform:inherit;
 	color: #C4515C;
 	text-shadow: 2px 2px 2px #FFF;
 	display: none;
@@ -1289,23 +1290,23 @@ audio {
 }
 
 .btn-primary {
-        border-color: #D4F0F0;
-        padding: 15px;
-        text-transform: uppercase;
-        font-family: "Dancing Script", serif;
-        font-weight: 700;
-        color: #7F8C8D;
-        background-color: #D4F0F0;
+	border-color: #e9C3BB;
+	padding: 15px;
+	text-transform: uppercase;
+	font-family: "Dancing Script", serif;
+	font-weight: 700;
+	color: #ac5865;
+	background-color: #e9C3BB;
 }
-    .btn-primary:hover,
-    .btn-primary:focus,
-    .btn-primary:active,
-    .btn-primary.active,
-    .open .dropdown-toggle.btn-primary {
-        border-color: #7F8C8D;
-        color: #7F8C8D;
-        background-color: #D4F0F0;
-    }
+	.btn-primary:hover,
+	.btn-primary:focus,
+	.btn-primary:active,
+	.btn-primary.active,
+	.open .dropdown-toggle.btn-primary {
+		border-color: #ac5865;
+		color: #ac5865;
+		background-color: #e9C3BB;
+	}
 
 
 
