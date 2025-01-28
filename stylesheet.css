@@ -1275,13 +1275,14 @@ audio {
 	margin-top: 20px;
 }
 .message {
-	margin-top: 200px;
+	margin-top: 130px;
+	margin-left: 90px;
 	display: none;
 }
 .message p {
 	font-family: "Dancing Script", serif;
 	font-optical-sizing: auto;
-	font-size: 4rem;
+	font-size: 4.2rem;
 	text-transform:inherit;
 	color: #C4515C;
 	text-shadow: 2px 2px 2px #FFF;
